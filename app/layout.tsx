@@ -11,9 +11,9 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Get Hired - Transform Your Career Today",
-  description: "Watch our exclusive video and discover how to land your dream job in 30 days or less",
-  generator: "v0.app",
+  title: "The Sales Monarchs System",
+  description: "Click here to increase your sales now",
+  generator: "SMM",
 }
 
 export default function RootLayout({

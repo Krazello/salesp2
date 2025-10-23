@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import React from "react";
 import { DM_Sans } from "next/font/google";
 import "./globals.css";
-import { Analytics } from "@vercel/analytics/react"; // ✅ added this line
+import { Analytics } from "@vercel/analytics/next"; // ✅ added this line
 
 const dmSans = DM_Sans({
   subsets: ["latin"],

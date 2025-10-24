@@ -295,7 +295,7 @@ export default function VSLFunnelPage() {
             <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold text-foreground max-w-5xl mx-auto text-glow-strong leading-[1.1] px-2">
               Our SalesPimp system will guarantee you a{" "}
               <span className="bg-gradient-to-r from-blue-200 via-blue-100 to-indigo-200 bg-clip-text text-transparent font-extrabold">
-                22% increase
+                52% increase
               </span>{" "}
               in your sales in the next{" "}
               <span className="bg-gradient-to-r from-blue-200 via-blue-100 to-indigo-200 bg-clip-text text-transparent font-extrabold">
